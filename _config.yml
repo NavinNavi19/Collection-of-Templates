@@ -6,3 +6,5 @@ relative_links:
 include:
   - README.md
   - README-Template.md
+
+theme: jekyll-theme-leap-day
