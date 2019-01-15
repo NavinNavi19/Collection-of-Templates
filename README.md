@@ -1,4 +1,4 @@
-# Collection-of-Useful Items
+# Collection-of-Useful-Items
 This repo is a collection of some awesome templates.
 
 ## List of Items
